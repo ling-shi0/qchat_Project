@@ -1,0 +1,3 @@
+一个利用python做的仿照qq和wechat的小练习
+前端界面利用 pyqt5
+还在建设中
